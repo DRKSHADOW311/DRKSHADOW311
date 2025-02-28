@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 About Me:
+
   I'm a recent Master of Computer Science graduate that is looking to refine his programming skills through personal projects and collaboration.
 
   - Im currently working on a comprehensive react native loadout website for the game CS2 to specifically hone in on my web development abilities.
